@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/aweihe00/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/aweihe00/team-profile-generator#readme",
+  "homepage": "file:///C:/Users/aweih/workspace/homework/Team-Profile-Generator/output/team-20200114233217.html",
   "dependencies": {
     "inquirer": "^7.0.0",
     "production": "0.0.2"
