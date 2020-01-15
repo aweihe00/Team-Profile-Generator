@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/aweihe00/team-profile-generator#readme",
   "dependencies": {
-    "inquirer": "^7.0.0"
+    "inquirer": "^7.0.0",
+    "production": "0.0.2"
   },
   "devDependencies": {
     "jest": "^24.9.0"
